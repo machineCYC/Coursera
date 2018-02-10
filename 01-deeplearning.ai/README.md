@@ -19,8 +19,17 @@ This repository contains all my work in Deep Learning Specialization course on C
   + [Week 4 - Deep Neural Network-Application](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/01-NeuralNetworksandDeepLearning/Week4/02-Deep%20Neural%20Network-Application.ipynb)
 
 
-+ [Course 2: Improving Deep Neural Networks Hyper parameter tuning Regularization and Optimization]()
++ [Course 2: Improving Deep Neural Networks Hyper parameter tuning Regularization and Optimization](https://github.com/machineCYC/Coursera/tree/master/01-deeplearning.ai/02-ImprovingDeepNeuralNetworksHyperparametertuningRegularizationandOptimization)
+  
+  + [Week 1 - Initialization](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/02-ImprovingDeepNeuralNetworksHyperparametertuningRegularizationandOptimization/Week1/01-Initialization.ipynb)
 
+  + [Week 1 - Regularization](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/02-ImprovingDeepNeuralNetworksHyperparametertuningRegularizationandOptimization/Week1/02-Regularization.ipynb)
+
+  + [Week 1 - Gradient Checking](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/02-ImprovingDeepNeuralNetworksHyperparametertuningRegularizationandOptimization/Week1/03-Gradient%20Checking.ipynb)
+
+  + [Week 2 - Optimization methods](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/02-ImprovingDeepNeuralNetworksHyperparametertuningRegularizationandOptimization/Week2/01-Optimization%20methods.ipynb)
+
+  + [Week 3 - Tensorflow Tutorial](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/02-ImprovingDeepNeuralNetworksHyperparametertuningRegularizationandOptimization/Week3/01-Tensorflow%20Tutorial.ipynb)
 
 + [Course 3: Structuring Machine Learning Projects]()
 
