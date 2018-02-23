@@ -33,6 +33,7 @@ This repository contains all my work in Deep Learning Specialization course on C
 
 + [Course 3: Structuring Machine Learning Projects]()
 
+  + Do not have the Programming assignments
 
 + [Course 4: Convolutional Neural Networks]()
 
