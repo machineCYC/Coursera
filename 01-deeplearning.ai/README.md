@@ -4,6 +4,26 @@
 
 This repository contains all my work in Deep Learning Specialization course on Coursera. 
 
+## Quiz
+
++ [Course 1: Neural Networks and DeepLearning](https://github.com/machineCYC/Coursera/tree/master/01-deeplearning.ai/01-NeuralNetworksandDeepLearning)
+
+  + [Week 1 - Introductio To DeepLearning](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/01-NeuralNetworksandDeepLearning/Week1/IntroductionToDeepLearning.pdf)
+
+  + [Week 2 - Neural Network Basics](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/01-NeuralNetworksandDeepLearning/Week2/NeuralNetworkBasics.pdf)
+
+  + [Week 3 - Shallow Neural Networks](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/01-NeuralNetworksandDeepLearning/Week3/ShallowNeuralNetworks.pdf)
+
+  + [Week 4 - Key Concepts On Deep NeuralNetworks](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/01-NeuralNetworksandDeepLearning/Week4/KeyConceptsOnDeepNeuralNetworks.pdf)
+
++ [Course 2: Improving Deep Neural Networks Hyper parameter tuning Regularization and Optimization](https://github.com/machineCYC/Coursera/tree/master/01-deeplearning.ai/02-ImprovingDeepNeuralNetworksHyperparametertuningRegularizationandOptimization)
+
++ [Course 3: Structuring Machine Learning Projects]()
+
+
++ [Course 4: Convolutional Neural Networks]()
+
+
 ## Programming Assignments
 
 + [Course 1: Neural Networks and DeepLearning](https://github.com/machineCYC/Coursera/tree/master/01-deeplearning.ai/01-NeuralNetworksandDeepLearning)
@@ -20,7 +40,7 @@ This repository contains all my work in Deep Learning Specialization course on C
 
 
 + [Course 2: Improving Deep Neural Networks Hyper parameter tuning Regularization and Optimization](https://github.com/machineCYC/Coursera/tree/master/01-deeplearning.ai/02-ImprovingDeepNeuralNetworksHyperparametertuningRegularizationandOptimization)
-  
+
   + [Week 1 - Initialization](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/02-ImprovingDeepNeuralNetworksHyperparametertuningRegularizationandOptimization/Week1/01-Initialization.ipynb)
 
   + [Week 1 - Regularization](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/02-ImprovingDeepNeuralNetworksHyperparametertuningRegularizationandOptimization/Week1/02-Regularization.ipynb)
