@@ -6,7 +6,7 @@ This repository contains all my work in Deep Learning Specialization course on C
 
 ## Quiz
 
-+ [Course 1: Neural Networks and DeepLearning](https://github.com/machineCYC/Coursera/tree/master/01-deeplearning.ai/01-NeuralNetworksandDeepLearning)
++ Course 1: Neural Networks and DeepLearning
 
   + [Week 1 - Introductio To DeepLearning](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/01-NeuralNetworksandDeepLearning/Week1/IntroductionToDeepLearning.pdf)
 
@@ -16,17 +16,26 @@ This repository contains all my work in Deep Learning Specialization course on C
 
   + [Week 4 - Key Concepts On Deep NeuralNetworks](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/01-NeuralNetworksandDeepLearning/Week4/KeyConceptsOnDeepNeuralNetworks.pdf)
 
-+ [Course 2: Improving Deep Neural Networks Hyper parameter tuning Regularization and Optimization](https://github.com/machineCYC/Coursera/tree/master/01-deeplearning.ai/02-ImprovingDeepNeuralNetworksHyperparametertuningRegularizationandOptimization)
++ Course 2: Improving Deep Neural Networks Hyper parameter tuning Regularization and Optimization
 
-+ [Course 3: Structuring Machine Learning Projects]()
+  + [Week 1 - Practical Aspects Of Deep Learning](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/02-ImprovingDeepNeuralNetworksHyperparametertuningRegularizationandOptimization/Week1/PracticalAspectsOfDeepLearning.pdf)
 
+  + [Week 2 - Optimization Algorithms](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/02-ImprovingDeepNeuralNetworksHyperparametertuningRegularizationandOptimization/Week2/OptimizationAlgorithms.pdf)
 
-+ [Course 4: Convolutional Neural Networks]()
+  + [Week 3 - Hyperparameter Tuning Batch Normalization Programming Frameworks](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/02-ImprovingDeepNeuralNetworksHyperparametertuningRegularizationandOptimization/Week3/HyperparameterTuningBatchNormalizationProgrammingFrameworks.pdf)
+
++ Course 3: Structuring Machine Learning Projects
+ 
+  + [Week 1 - Bird Recognition In The City Of Peacetopia Case Study](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/03-StructuringMachineLearningProjects/Week1/BirdRecognitionInTheCityOfPeacetopiaCaseStudy.pdf)
+
+  + [Week 2 - Autonomous Driving Case Study](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/03-StructuringMachineLearningProjects/Week2/AutonomousDrivingCaseStudy.pdf)
+
++ Course 4: Convolutional Neural Networks
 
 
 ## Programming Assignments
 
-+ [Course 1: Neural Networks and DeepLearning](https://github.com/machineCYC/Coursera/tree/master/01-deeplearning.ai/01-NeuralNetworksandDeepLearning)
++ Course 1: Neural Networks and DeepLearning
 
   + [Week 2 - Python Basics With Numpy](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/01-NeuralNetworksandDeepLearning/Week2/01-Python%20Basics%20With%20Numpy.ipynb)
 
@@ -39,7 +48,7 @@ This repository contains all my work in Deep Learning Specialization course on C
   + [Week 4 - Deep Neural Network-Application](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/01-NeuralNetworksandDeepLearning/Week4/02-Deep%20Neural%20Network-Application.ipynb)
 
 
-+ [Course 2: Improving Deep Neural Networks Hyper parameter tuning Regularization and Optimization](https://github.com/machineCYC/Coursera/tree/master/01-deeplearning.ai/02-ImprovingDeepNeuralNetworksHyperparametertuningRegularizationandOptimization)
++ Course 2: Improving Deep Neural Networks Hyper parameter tuning Regularization and Optimization
 
   + [Week 1 - Initialization](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/02-ImprovingDeepNeuralNetworksHyperparametertuningRegularizationandOptimization/Week1/01-Initialization.ipynb)
 
@@ -51,9 +60,9 @@ This repository contains all my work in Deep Learning Specialization course on C
 
   + [Week 3 - Tensorflow Tutorial](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/02-ImprovingDeepNeuralNetworksHyperparametertuningRegularizationandOptimization/Week3/01-Tensorflow%20Tutorial.ipynb)
 
-+ [Course 3: Structuring Machine Learning Projects]()
++ Course 3: Structuring Machine Learning Projects
 
   + Do not have the Programming assignments
 
-+ [Course 4: Convolutional Neural Networks]()
++ Course 4: Convolutional Neural Networks
 
