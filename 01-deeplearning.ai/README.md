@@ -32,6 +32,12 @@ This repository contains all my work in Deep Learning Specialization course on C
 
 + Course 4: Convolutional Neural Networks
 
+  + [Week 1 - The basics of ConvNets](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week1/TheBasicsOfConvNets.pdf)
+
+  + [Week 2 - ]()
+
+  + [Week 3 - ]()
+
 
 ## Programming Assignments
 
@@ -48,7 +54,7 @@ This repository contains all my work in Deep Learning Specialization course on C
   + [Week 4 - Deep Neural Network-Application](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/01-NeuralNetworksandDeepLearning/Week4/02-Deep%20Neural%20Network-Application.ipynb)
 
 
-+ Course 2: Improving Deep Neural Networks Hyper parameter tuning Regularization and Optimization
++ Course 2: Improving Deep Neural Networks Hyperparameter tuning Regularization and Optimization
 
   + [Week 1 - Initialization](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/02-ImprovingDeepNeuralNetworksHyperparametertuningRegularizationandOptimization/Week1/01-Initialization.ipynb)
 
@@ -65,4 +71,12 @@ This repository contains all my work in Deep Learning Specialization course on C
   + Do not have the Programming assignments
 
 + Course 4: Convolutional Neural Networks
+  
+  + [Week 1 - Convolutional Model: step by step](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week1/01-Convolution%20model%20Step%20by%20Step.ipynb)
+
+  + [Week 1 - Convolutional Model: application](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week1/02-Convolution%20model%20Application.ipynb)
+
+  + [Week 2 - ]()
+
+  + [Week 3 - ]()
 
