@@ -34,9 +34,11 @@ This repository contains all my work in Deep Learning Specialization course on C
 
   + [Week 1 - The basics of ConvNets](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week1/TheBasicsOfConvNets.pdf)
 
-  + [Week 2 - ]()
+  + [Week 2 - Deep convolutional models](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week2/DeepConvolutionalModels.pdf)
 
   + [Week 3 - ]()
+
+  + [Week 4 - ]()
 
 
 ## Programming Assignments
@@ -76,7 +78,11 @@ This repository contains all my work in Deep Learning Specialization course on C
 
   + [Week 1 - Convolutional Model: application](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week1/02-Convolution%20model%20Application.ipynb)
 
-  + [Week 2 - ]()
+  + [Week 2 - Keras Tutorial - The Happy House (not graded)](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week2/01-Keras%20Tutorial%20Happy%20House.ipynb)
 
-  + [Week 3 - ]()
+  + [Week 2 - Residual Networks](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week2/02-Residual%20Networks.ipynb)
+
+  + [Week 3 -]()
+
+  + [Week 4 - ]()
 
