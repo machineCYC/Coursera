@@ -36,9 +36,11 @@ This repository contains all my work in Deep Learning Specialization course on C
 
   + [Week 2 - Deep convolutional models](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week2/DeepConvolutionalModels.pdf)
 
-  + [Week 3 - ]()
+  + [Week 3 - Detection algorithms](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week3/DetectionAlgorithms.pdf)
 
   + [Week 4 - ]()
+
++ Course 5: Sequence Models
 
 
 ## Programming Assignments
@@ -82,7 +84,8 @@ This repository contains all my work in Deep Learning Specialization course on C
 
   + [Week 2 - Residual Networks](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week2/02-Residual%20Networks.ipynb)
 
-  + [Week 3 -]()
+  + [Week 3 - Autonomous driving - Car detection](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week3/01-Autonomous%20driving%20application%20Car%20detection.ipynb)
 
   + [Week 4 - ]()
 
++ Course 5: Sequence Models
