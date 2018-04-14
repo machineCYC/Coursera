@@ -38,7 +38,7 @@ This repository contains all my work in Deep Learning Specialization course on C
 
   + [Week 3 - Detection algorithms](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week3/DetectionAlgorithms.pdf)
 
-  + [Week 4 - ]()
+  + [Week 4 - Special Applications Face ecognition & Neural Style Transfer](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week4/SpecialApplicationsFaceRecognition%26NeuralStyleTransfer.pdf)
 
 + Course 5: Sequence Models
 
@@ -86,6 +86,8 @@ This repository contains all my work in Deep Learning Specialization course on C
 
   + [Week 3 - Autonomous driving - Car detection](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week3/01-Autonomous%20driving%20application%20Car%20detection.ipynb)
 
-  + [Week 4 - ]()
+  + [Week 4 - Art Generation with Neural Style Transfer](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week4/01-Art%20Generation%20with%20Neural%20Style%20Transfer.ipynb)
+
+  + [Week 4 - Face Recognition for the Happy House](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week4/02-Face%20Recognition%20for%20the%20Happy%20House.ipynb)
 
 + Course 5: Sequence Models
