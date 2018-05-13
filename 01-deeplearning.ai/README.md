@@ -41,6 +41,7 @@ This repository contains all my work in Deep Learning Specialization course on C
   + [Week 4 - Special Applications Face ecognition & Neural Style Transfer](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week4/SpecialApplicationsFaceRecognition%26NeuralStyleTransfer.pdf)
 
 + Course 5: Sequence Models
+  + [Week 1 - Recurrent Neural Networks](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/05-SequenceModels/Week1/RecurrentNeuralNetworks.pdf)
 
 
 ## Programming Assignments
@@ -91,3 +92,8 @@ This repository contains all my work in Deep Learning Specialization course on C
   + [Week 4 - Face Recognition for the Happy House](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/04-ConvolutionalNeuralNetworks/Week4/02-Face%20Recognition%20for%20the%20Happy%20House.ipynb)
 
 + Course 5: Sequence Models
+  + [Week1 1 - Building a recurrent neural network - step by step](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/05-SequenceModels/Week1/01-Building%20a%20Recurrent%20Neural%20Network%20Step%20by%20Step.ipynb)
+
+  + [Week1 1 - Dinosaur Island - Character-Level Language Modeling](https://hub.coursera-notebooks.org/user/somdgnbnzhshnwicemdkfl/notebooks/Week%201/Dinosaur%20Island%20--%20Character-level%20language%20model/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb#)
+
+  + [Week1 1 - Jazz improvisation with LSTM](https://github.com/machineCYC/Coursera/blob/master/01-deeplearning.ai/05-SequenceModels/Week1/03-Improvise%20Jazz%20Solo%20with%20an%20LSTM%20Network.ipynb)
